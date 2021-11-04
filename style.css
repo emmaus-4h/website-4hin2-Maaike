@@ -5,7 +5,7 @@ html, body {
     padding: 0;
     background-color: #EEEEEE;  
     
-    color: #303030;
+    color: #161313;
     font: Verdana, Arial, Sans-Serif;
 }
 
@@ -23,7 +23,7 @@ article {
 
 
 header {
-    color: skyblue;
+    color: rgb(69, 121, 141);
     text-align: center;
 }
 
@@ -33,14 +33,16 @@ footer {
     padding-bottom: 10px;
 }
 
-
 /* specifieke stijlen */
 
 img.zweefLinks {
     float: left;
     margin-right: 15px;
 }
-
+img.zweefrechts{
+  float: right;
+  margin-right: 15px;
+}
 .smalltext {
     font-size: 0.7em;
 }
