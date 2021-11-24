@@ -1,5 +1,9 @@
 /* Basislayout */
-
+*{
+  box-sizing:border-box;
+  overflow:auto;
+  margin:0px; 
+}
 html, body {
     height: 100%;
     padding: 0;
@@ -20,7 +24,6 @@ main {
 article {
     text-align: justify;
 }
-
 
 header {
     color: rgb(69, 121, 141);
