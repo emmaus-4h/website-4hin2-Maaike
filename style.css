@@ -36,6 +36,15 @@ footer {
     padding-bottom: 10px;
 }
 
+.box-links {
+ float: left
+ width: 40%
+}
+
+.tekst-links {
+  float: left;
+}
+
 /* specifieke stijlen */
 
 img.zweefLinks {
@@ -46,6 +55,11 @@ img.zweefrechts{
   float: right;
   margin-right: 15px;
 }
+
+#plaatje-box-links{
+width:10%
+}
+
 .smalltext {
     font-size: 0.7em;
 }
