@@ -23,6 +23,7 @@ main {
 
 article {
     text-align: justify;
+padding-top: 20px;
 }
 
 header {
@@ -36,13 +37,34 @@ footer {
     padding-bottom: 10px;
 }
 
+.rij {
+
+}
+
 .box-links {
- float: left
- width: 40%
+ float: left;
+ width: 45%;
+ padding-top: 20px;
+}
+
+.box-rechts {
+  float: right;
+  width: 45%;
+  padding-top: 20px;
 }
 
 .tekst-links {
   float: left;
+  padding-top: 15px;
+}
+
+.tekst-rechts {
+  float: right;
+  padding-top: 15px;
+}
+
+.tekst-dutch-open{
+  float: right;
 }
 
 /* specifieke stijlen */
@@ -50,6 +72,7 @@ footer {
 img.zweefLinks {
     float: left;
     margin-right: 15px;
+    padding-top: 5px;
 }
 img.zweefrechts{
   float: right;
@@ -57,7 +80,11 @@ img.zweefrechts{
 }
 
 #plaatje-box-links{
-width:10%
+width: 100%
+}
+
+#plaatje-box-rechts {
+width: 100%
 }
 
 .smalltext {
