@@ -73,6 +73,8 @@ img.zweefLinks {
     float: left;
     margin-right: 15px;
     padding-top: 10px;
+    width: 250px;
+
 }
 img.zweefrechts{
   float: right;
