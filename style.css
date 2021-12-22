@@ -69,6 +69,10 @@ footer {
 
 /* specifieke stijlen */
 
+p{
+  margin-top: 15px;
+}
+
 img.zweefLinks {
     float: left;
     margin-right: 15px;
@@ -78,7 +82,7 @@ img.zweefLinks {
 }
 img.zweefrechts{
   float: right;
-  margin-right: 15px;
+  margin-left: 15px;
 }
 
 #plaatje-box-links{
