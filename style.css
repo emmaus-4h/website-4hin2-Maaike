@@ -83,6 +83,7 @@ img.zweefLinks {
 img.zweefrechts{
   float: right;
   margin-left: 15px;
+  width: 190px;
 }
 
 #plaatje-box-links{
